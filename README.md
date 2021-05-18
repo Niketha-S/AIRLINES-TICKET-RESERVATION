@@ -1,0 +1,2 @@
+# AIRLINES-TICKET-RESERVATION
+This C++ coding makes it easier for the user to manage the reservation. Airlines reservation system(ARS) is a part of the so-called passenger reservation system(PRS), which is an application supporting direct contact with the passenger. This computer-based system is used for the reservations of a particular airline and interfaces with other global distribution channels in making reservations for most major airlines in a single system
